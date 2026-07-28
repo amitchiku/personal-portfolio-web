@@ -76,26 +76,26 @@ const projects = [
   },
 
   {
-    title: "Book CRUD App",
+    title: "Nimbu-Fresh-Weather-triggered-campaign",
 
     description:
-      "Professional CRUD management system with scalable backend and responsive frontend.",
+      "Weather-triggered campaign web application for Nimbu Fresh, integrating real-time weather data and dynamic content delivery.",
 
     tech: [
-      "Django",
-      "React",
-      "MySQL",
+      "Node",
+      "Express",
+      "MongoAtlas",
       "tailwind"
     ],
 
     image:
-      "https://res.cloudinary.com/dezmqduah/image/upload/v1779697825/Screenshot_2026-05-25_140014_gfowup.png",
+      "https://res.cloudinary.com/dezmqduah/image/upload/v1785226592/Screenshot_2026-07-28_134255_wu0wnt.png",
 
     live:
-      "https://django-reactcrudap.vercel.app/",
+      "https://nimbu-fresh-weather-triggered-campa.vercel.app/",
 
     github:
-      "https://github.com/amitchiku/Django-react_crud_app",
+      "https://github.com/amitchiku/Nimbu-Fresh-Weather-triggered-campaign",
   },
   {
     title: "E-commerce Website",
