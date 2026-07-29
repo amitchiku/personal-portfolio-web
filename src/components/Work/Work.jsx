@@ -79,7 +79,7 @@ const projects = [
     title: "Weather-triggered-web",
 
     description:
-      "Weather-triggered campaign application for Nimbu Fresh, integrating real-time weather data and content delivery",
+      "Weather-triggered campaign for Nimbu Fresh, integrating real-time weather data and content delivery",
 
     tech: [
       "Node",
