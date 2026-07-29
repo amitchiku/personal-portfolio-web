@@ -76,7 +76,7 @@ const projects = [
   },
 
   {
-    title: "Nimbu-Fresh-Weather-triggered-campaign",
+    title: "Weather-triggered-campaign",
 
     description:
       "Weather-triggered campaign web application for Nimbu Fresh, integrating real-time weather data and dynamic content delivery.",
