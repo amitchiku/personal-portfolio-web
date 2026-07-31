@@ -150,16 +150,12 @@ const About = () => {
             transition={{ duration: 2 }}
             className="text-gray-300 text-lg leading-9 mt-10 max-w-2xl"
           >
-            I am a passionate Computer Science & Engineering student at
-            Ajay Binay Institute of Technology, Cuttack. I specialize in
-            Python, MERN Stack, Django, React, MongoDB, Node.js, and
-            modern web technologies.
+          Computer Science & Engineering student at Ajay Binay Institute of Technology, Cuttack, with strong expertise in MERN Stack, Django, Python, React, Node.js, and MongoDB. Passionate about building scalable, high-performance web applications and continuously learning modern software engineering, AI, and cloud technologies.
+
             <br />
             <br />
-            I love building futuristic digital products with stunning UI,
-            smooth user experiences, and real-world functionality.
-            My projects include a Travel Agency Platform, Gaming Website,
-            and E-commerce Application.
+            I enjoy building modern, scalable web applications with intuitive user experiences and real-world functionality. My portfolio includes a Weather Trigger Campaign platform, Travel Booking Platform, Gaming Website, and E-commerce Application.
+
           </motion.p>
 
           {/* Buttons */}
