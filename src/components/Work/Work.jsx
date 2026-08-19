@@ -120,24 +120,24 @@ const projects = [
     "https://github.com/amitchiku/ecommerce-website",
   },
   {
-    title: "AI Saas Dashboard",
+    title: "Financial Tracker",
 
     description:
-    "AI-powered SaaS dashboard with real-time analytics and modern data visualization.",
+    "It is a real time finance tracking webiste which shows the data by the provided data.",
 
     tech:[
-      "React",
+      "Vue",
       "Tailwind Css",
       "framer motion",
     ],
     image:
-    "https://res.cloudinary.com/dezmqduah/image/upload/v1779714600/Screenshot_2026-05-25_183841_ircme6.png",
+    "https://res.cloudinary.com/dezmqduah/image/upload/v1787124938/Screenshot_2026-08-19_130324_geggjf.png",
 
     live:
-    "https://saasdashboard-rho.vercel.app",
+    "https://ryan-dashboard-xi.vercel.app/",
 
     github:
-    "https://github.com/amitchiku/AI-Saas-Dashboard"
+    "https://github.com/amitchiku/ryan-dashboard"
   }
 ];
 
