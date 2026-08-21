@@ -168,7 +168,7 @@ const About = () => {
                 boxShadow: "0px 0px 40px #a855f7",
               }}
               whileTap={{ scale: 0.95 }}
-              href="https://drive.google.com/file/d/1cTxFcdmD_putnS_WVAP3e9sgBRYRfOaZ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1i2RDE8kD_STSg7vLoDd8d6wvBwJRL1PP/view"
               target="_blank"
               rel="noreferrer"
               className="relative overflow-hidden px-10 py-4 rounded-full text-white font-bold text-lg bg-gradient-to-r from-purple-600 to-pink-600"
